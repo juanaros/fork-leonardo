@@ -1,7 +1,12 @@
 *{
 	font-family: 'Roboto', sans-serif;
 }
-
+p.footer{
+    position: absolute;
+    top: -95px;
+    width: 100%;
+    text-align: center;
+}
 .card-footer {
 	background: transparent;
 	border-top: 0px;
