@@ -6,14 +6,14 @@ Acceso a mi portafolio personal web: [Mi web](https://leonardo-villagran.github.
 
 Se realizarán los forks a los siguientes usuarios:
 
-    Omar araya:
+Omar araya:
 
-        -Nuevo Repositorio: [a link](https://github.com/Leonardo-villagran/Portafolios-omar-araya)
+Nuevo Repositorio: [a link](https://github.com/Leonardo-villagran/Portafolios-omar-araya)
 
-        -Nueva Web: [a link](https://leonardo-villagran.github.io/Portafolios-omar-araya/)
+Nueva Web: [a link](https://leonardo-villagran.github.io/Portafolios-omar-araya/)
 
-    Danilo Muñoz:
+Danilo Muñoz:
 
-        -Nuevo Repositorio: [a link](https://github.com/Leonardo-villagran/portafolio_dmunoz)
+Nuevo Repositorio: [a link](https://github.com/Leonardo-villagran/portafolio_dmunoz)
 
-        -Nueva Web: [a link](https://leonardo-villagran.github.io/portafolio_dmunoz/)
+Nueva Web: [a link](https://leonardo-villagran.github.io/portafolio_dmunoz/)
