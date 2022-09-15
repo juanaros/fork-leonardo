@@ -1,6 +1,6 @@
 Registro de trabajo de Desafio número de 6 de G27 con Portafolio.
 
-Se agregan los forks creados a mi portafolio, solo por para facilitar acceder a los cambios realizados en sus repositorios y webs.
+Se agregan los forks creados a mi portafolio, solo para facilitar acceder a los cambios realizados en sus repositorios y webs.
 
 Acceso a mi portafolio personal web: [https://leonardo-villagran.github.io/desafio_latam_06/](https://leonardo-villagran.github.io/desafio_latam_06/)
 
