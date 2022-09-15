@@ -1,4 +1,4 @@
-Registro de trabajo de Desafio número de 6 de G27 con Portafolio.
+Registro de trabajo de Desafio Latam número de 6 de G27 con Portafolio.
 
 Se agregan los forks creados a mi portafolio, solo para facilitar acceder a los cambios realizados en sus repositorios y webs.
 
